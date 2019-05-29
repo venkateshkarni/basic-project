@@ -1,0 +1,2 @@
+# basic-project
+static page
